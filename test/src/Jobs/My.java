@@ -1,7 +1,7 @@
 package Jobs;
 
-public class My {
-  public doSome ()  {
-    
-  }
+import javax.servlet.http.HttpServlet;
+
+public class My extends HttpServlet{
+	 
 }
